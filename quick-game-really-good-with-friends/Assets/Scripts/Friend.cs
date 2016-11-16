@@ -14,8 +14,6 @@ public class Friend : MonoBehaviour {
     int speechIndex = 0;
     string selectedText = "";
     bool talking = false;
-    public int xOff = 0;
-    public int yOff = 0;
 
     // Use this for initialization
     void Start () {
@@ -34,7 +32,8 @@ public class Friend : MonoBehaviour {
             Vector3 getPixelPos = Camera.main.WorldToScreenPoint(speechBubbleAnchor.transform.position);
             getPixelPos.y = Screen.height - getPixelPos.y;
             
-            GUI.Label(new Rect(getPixelPos.x + xOff, getPixelPos.y + yOff, 200f, 100f), selectedText);
+            GUI.Label(new Rect(getPixelPos.x, getPixelPos.y, 200f, 100f), selectedText);
+            //print(selectedText);
         }
     }
 
