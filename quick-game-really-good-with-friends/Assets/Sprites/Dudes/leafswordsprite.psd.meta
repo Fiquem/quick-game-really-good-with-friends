@@ -1,21 +1,18 @@
 fileFormatVersion: 2
-guid: 6d4a3cda814739443bf913d931686ffd
-timeCreated: 1479411833
+guid: bb31d057801c700468a340324abaff0a
+timeCreated: 1479506615
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: fuckarms_0
-    21300002: fuckarms_1
-    21300004: fuckarms_2
-    21300006: fuckarms_3
-    21300008: fuckarms_4
-    21300010: fuckarms_5
-    21300012: fuckarms_6
-    21300014: fuckarms_7
-    21300016: fuckarms_8
-    21300018: fuckarms_9
-    21300020: fuckarms_10
-    21300022: fuckarms_11
+    21300000: leafswordsprite_0
+    21300002: leafswordsprite_1
+    21300004: leafswordsprite_2
+    21300006: leafswordsprite_3
+    21300008: leafswordsprite_4
+    21300010: leafswordsprite_5
+    21300012: leafswordsprite_6
+    21300014: leafswordsprite_7
+    21300016: leafswordsprite_8
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -41,7 +38,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: 1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -65,158 +62,119 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fuckarms_0
+      name: leafswordsprite_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 69
-        width: 20
-        height: 49
+        x: 0
+        y: 66
+        width: 64
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: fuckarms_1
+      name: leafswordsprite_1
       rect:
         serializedVersion: 2
-        x: 86
-        y: 69
-        width: 20
-        height: 49
+        x: 64
+        y: 66
+        width: 64
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: fuckarms_2
+      name: leafswordsprite_2
       rect:
         serializedVersion: 2
-        x: 142
-        y: 71
-        width: 20
-        height: 48
+        x: 128
+        y: 66
+        width: 64
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: fuckarms_3
+      name: leafswordsprite_3
       rect:
         serializedVersion: 2
-        x: 212
-        y: 70
-        width: 20
-        height: 49
+        x: 192
+        y: 66
+        width: 64
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: fuckarms_4
+      name: leafswordsprite_4
       rect:
         serializedVersion: 2
-        x: 20
-        y: 8
-        width: 20
-        height: 49
+        x: 0
+        y: 2
+        width: 64
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: fuckarms_5
+      name: leafswordsprite_5
       rect:
         serializedVersion: 2
-        x: 85
-        y: 10
-        width: 20
-        height: 49
+        x: 64
+        y: 2
+        width: 64
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: fuckarms_6
+      name: leafswordsprite_6
       rect:
         serializedVersion: 2
-        x: 146
-        y: 10
-        width: 30
-        height: 49
+        x: 128
+        y: 2
+        width: 64
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: fuckarms_7
+      name: leafswordsprite_7
       rect:
         serializedVersion: 2
-        x: 213
-        y: 11
-        width: 21
-        height: 49
+        x: 192
+        y: 2
+        width: 64
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: fuckarms_8
+      name: leafswordsprite_8
       rect:
         serializedVersion: 2
-        x: 276
-        y: 9
-        width: 20
-        height: 49
+        x: 256
+        y: 2
+        width: 64
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: fuckarms_9
-      rect:
-        serializedVersion: 2
-        x: 337
-        y: 9
-        width: 21
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: fuckarms_10
-      rect:
-        serializedVersion: 2
-        x: 398
-        y: 7
-        width: 37
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: fuckarms_11
-      rect:
-        serializedVersion: 2
-        x: 465
-        y: 9
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
